@@ -1,11 +1,10 @@
 ---
-layout: page
+layout: default
 title: Services
 permalink: /services/
 ---
 
 # Areas of expertise
-
 
 I've been involved for many years in projects around data engineering, helping the companies archive the most our of their data needs. With independence of your stage, feel free to get in touch if data engineering challenges are in your roadmap.
 

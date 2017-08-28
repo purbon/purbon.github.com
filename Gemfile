@@ -31,5 +31,7 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #gem "academic"
-gem "starterlog-theme"
+gem "jekyll-theme-cayman"
+gem "jekyll-menus"
+
 
