@@ -1,0 +1,21 @@
+---
+layout: default
+title: Home
+menus:
+  header:
+    title: Home
+    weight: 1
+---
+
+Software Architect and Data Architecture consultant with background in data processing infrastructure and information retrieval.
+Regular collaborator in evangelization activities such as magazines, conferences, education workshops and seminars.
+
+<h3>Posts</h3>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
