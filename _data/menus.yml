@@ -1,0 +1,10 @@
+main:
+  - title: Main
+    identifier: main
+    url: /
+  - title: Services
+    identifier: services
+    url: /services
+  - title: About
+    identifier: about
+    url: /about

@@ -18,9 +18,25 @@
           </h3>
         </div>
       </div>
-
+      <div class="container">
+        <img style="float: center;" src="{{ site.url }}/public/img/computer.jpeg">
+      </div>
+      <div class="container">
+        <ul>
+        {% for item in site.menus.header %}
+          <li class="menu-item-{{ loop.index }}">
+            <a href="{{ item.url }}" title="Go to {{ item.title }}">{{ item.title }}</a>
+          </li>
+        {% endfor %}
+        </ul>
+      </div>
       <div class="container content">
         {{ content }}
+      </div>
+      <div class="container">
+        <p class="small">
+          &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+        </p>
       </div>
     </div>
 
