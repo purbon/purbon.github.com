@@ -18,16 +18,22 @@ email: pere.urbon@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
  Software Architect and data enginner with a background in data processing infrastructure and information retrieval
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.purbon.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://purbon.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl:             ''
+paginate:            5
+permalink:           pretty
 twitter_username: purbon
 github_username:  purbon
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-theme-lanyon
 plugins:
   - jekyll-feed
   - jekyll-menus
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
 
 menus:
   main:
@@ -46,6 +52,10 @@ menus:
     - title: About
       identifier: about
       url: /about
+
+sass:
+  sass_dir: _sass
+  style: :compressed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
