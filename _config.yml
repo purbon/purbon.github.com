@@ -36,6 +36,24 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
 
+menus:
+  header:
+    - title: Home
+      identifier: home
+      url: /
+    - title: Cv
+      identifier: cv
+      url: /cv
+    - title: Blog
+      identifier: posts
+      url: /posts
+    - title: Services
+      identifier: services
+      url: /services
+    - title: About
+      identifier: about
+      url: /about
+
 sass:
   sass_dir: _sass
   style: :compressed
