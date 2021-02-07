@@ -4,7 +4,21 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  #dadops with touches of #data and #software #architecture in between #berlin and #barcelona
 </p>
 
-#dadops with touches of #data and #software #architecture in between #berlin and #barcelona
+### Social Media
+
+* [Github](https://github.com/purbon).
+* [Twitter](https://twitter.com/purbon).
+* [Linkedin](http://www.linkedin.com/in/purbon).
+* [Xing](http://www.xing.com/profile/Pere_UrbonBayes2).
+
+
+### Contact
+
+| Pere Urbon-Bayes |
+| Berlin           |
+| Germany, 12045   |
+| +49 157 81949910 |
+| pere.urbon {at} gmail.com |

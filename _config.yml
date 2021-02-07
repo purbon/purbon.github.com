@@ -20,7 +20,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://purbon.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl:             ''
-paginate:            5
+paginate: 5
+paginate_path: "/posts/page:num/"
 permalink:           pretty
 twitter_username: purbon
 github_username:  purbon
