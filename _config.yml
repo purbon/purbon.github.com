@@ -36,18 +36,6 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
 
-menus:
-  header:
-    - title: Main
-      identifier: main
-      url: /
-    - title: Services
-      identifier: services
-      url: /services
-    - title: About
-      identifier: about
-      url: /about
-
 sass:
   sass_dir: _sass
   style: :compressed
