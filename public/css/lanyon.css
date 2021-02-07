@@ -556,3 +556,20 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
+
+.menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu li {
+  display: inline;
+  float: left;
+}
+
+.menu a {
+  display: block;
+  padding: 1em;
+  /*background-color: #dddddd;*/
+}

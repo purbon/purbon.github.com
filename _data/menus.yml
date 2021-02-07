@@ -1,7 +1,13 @@
-main:
-  - title: Main
-    identifier: main
+header:
+  - title: Home
+    identifier: home
     url: /
+  - title: Cv
+    identifier: cv
+    url: /cv
+  - title: Blog
+    identifier: posts
+    url: /posts
   - title: Services
     identifier: services
     url: /services
