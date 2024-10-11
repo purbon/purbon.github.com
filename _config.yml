@@ -50,6 +50,9 @@ menus:
     - title: Services
       identifier: services
       url: /services
+    - title: Handball
+      identifier: handball
+      url: /handball
     - title: About
       identifier: about
       url: /about
