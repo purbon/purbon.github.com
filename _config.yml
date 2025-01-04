@@ -28,7 +28,8 @@ github_username:  purbon
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-lanyon
+#theme: jekyll-theme-lanyon
+remote_theme: poole/lanyon@v1.1.0
 plugins:
   - jekyll-feed
   - jekyll-menus
