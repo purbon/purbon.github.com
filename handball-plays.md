@@ -6,4 +6,7 @@ permalink: /handball/plays
 
 # Handball plays
 
-TBA
+
+## Cruze central-pivote (1)
+
+![alt text]({{ site.url }}/assets/handball/cruze-central_pivo-abierto.gif)
