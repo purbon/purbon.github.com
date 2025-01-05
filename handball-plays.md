@@ -9,4 +9,4 @@ permalink: /handball/plays
 
 ## Cruze central-pivote (1)
 
-![alt text]({{ site.url }}/assets/handball/cruze-central_pivo-abierto.gif)
+![alt text]({{ site.url }}/assets/handball/plays/cruze-central_pivo-abierto.gif)
