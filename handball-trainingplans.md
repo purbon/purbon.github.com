@@ -20,7 +20,7 @@ permalink: /handball/kinder-training
 # mD Fitness Vorbereitung Empfehlungen    
 
 
-### Zwischen 28.Juli.2025 und Max. 13.August.2025
+### Zwischen 28.Juli.2025 und  17.August.2025
 
 | Einheiten | Frequenz | Series | Wiederholungen | Distanz   | Ausruhen zwischen Widerho. und Series | Intensität | Notes |
 | --------- | -------- | ------ | -------------- | --------- | ------------------------------------- | ---------- | ----- |
@@ -35,6 +35,8 @@ Test HIIT:
    ** Effort level (1(min)..10(max))
    ** Erholungsfähigkeit  (1(min)..10(max))
 
+
+### Zwischen 18.August.2025 und 7.September.2025
 
 | Einheiten | Frequenz   | Series | Wiederholungen | Distanz   | Ausruhen zwischen Widerho. und Series | Intensität | Notes |
 | --------- | ---------- | ------ | -------------- | --------- | ------------------------------------- | ---------- | ----- |
