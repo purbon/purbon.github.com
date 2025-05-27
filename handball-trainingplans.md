@@ -26,6 +26,12 @@ permalink: /handball/kinder-training
 | --------- | -------- | ------ | -------------- | --------- | ------------------------------------- | ---------- | ----- |
 | 5-6       | 2-3x woche | 3      | 4              | 20m + 20m | 30'' (Wider), 60'' Series             | 80%        | Progressive + Lauftechnik |
 
+
+> 20m - progressive schnell
+> stop, ohne pause
+> 20m - zurück (80% top)
+
+
 Jedes 2 tagen, ideal.
 
 Test HIIT:
