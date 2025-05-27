@@ -20,3 +20,22 @@ permalink: /handball/kinder-training
 # mD Fitness Vorbereitung Empfehlungen    
 
 
+### Zwischen 28.Juli.2025 und Max. 13.August.2025
+
+| Einheiten | Frequenz | Series | Wiederholungen | Distanz   | Ausruhen zwischen Widerho. und Series | Intensität | Notes |
+| --------- | -------- | ------ | -------------- | --------- | ------------------------------------- | ---------- | ----- |
+| 5-6       | 2-3x woche | 3      | 4              | 20m + 20m | 30'' (Wider), 60'' Series             | 80%        | Progressive + Lauftechnik |
+
+Jedes 2 tagen, ideal.
+
+Test HIIT:
+   * 10x30m mit 30'' pause
+   * Note, for 1 tag, 6 tag und 12 tag.
+   ** Total zeit.
+   ** Effort level (1(min)..10(max))
+   ** Erholungsfähigkeit  (1(min)..10(max))
+
+
+| Einheiten | Frequenz   | Series | Wiederholungen | Distanz   | Ausruhen zwischen Widerho. und Series | Intensität | Notes |
+| --------- | ---------- | ------ | -------------- | --------- | ------------------------------------- | ---------- | ----- |
+| 3-4       | 2-3x woche | 4      | 3-4            | 30m + 30m | 25'' (Wider), 60'' Series             | 80%        |       |
