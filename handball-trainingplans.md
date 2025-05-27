@@ -13,7 +13,9 @@ permalink: /handball/kinder-training
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/anjh45izOYM?si=qCjoQH-m4otwfYwx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Passqualität
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xsengUlZG5I?si=PtNIaHg_K52hiw_x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # mD Fitness Vorbereitung Empfehlungen    
 
