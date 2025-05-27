@@ -37,9 +37,9 @@ Jedes 2 tagen, ideal.
 Test HIIT:
    * 10x30m mit 30'' pause
    * Note, for 1 tag, 6 tag und 12 tag.
-   ** Total zeit.
-   ** Effort level (1(min)..10(max))
-   ** Erholungsfähigkeit  (1(min)..10(max))
+     * Total zeit.
+     * Effort level (1(min)..10(max))
+     * Erholungsfähigkeit  (1(min)..10(max))
 
 
 ### Zwischen 18.August.2025 und 7.September.2025
