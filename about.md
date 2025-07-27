@@ -4,8 +4,7 @@ title: About
 ---
 
 <p class="message">
-  #dadops with touches of #data and #software #architecture in between #berlin and #barcelona
-</p>
+I'm Pere Urbon‑Bayes, a Software Architect with over 15 years of experience in data engineering, streaming systems, and scalable infrastructure. Before transitioning into industry, I spent nearly a decade in academia, publishing research on semantic technologies, information extraction, and data quality. Today, I design real-time data platforms using tools like Apache Kafka, Elasticsearch, and GitOps-based automation. I’m also an active speaker, open-source contributor, and educator—focused on bridging data, infrastructure, and developer experience.</p>
 
 ### Social Media
 
